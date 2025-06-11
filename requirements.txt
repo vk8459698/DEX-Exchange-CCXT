@@ -1,0 +1,4 @@
+ccxt==4.2.25
+web3==6.15.1
+asyncio-mqtt==0.16.1
+python-dotenv==1.0.0

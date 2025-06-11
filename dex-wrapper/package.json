@@ -1,0 +1,16 @@
+{
+  "name": "dex-wrapper",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^6.7.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  },"scripts": {
+  "start": "node --loader ts-node/esm index.ts"
+}
+
+}
